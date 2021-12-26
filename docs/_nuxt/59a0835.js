@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{335:function(t,e,n){"use strict";n.r(e);var r=n(52),component=Object(r.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("svg",{attrs:{viewBox:"0 0 24 24"}},[e("path",{attrs:{d:"M12 4V2A10 10 0 0 0 2 12h2a8 8 0 0 1 8-8z",fill:"currentColor"}})])}),[],!1,null,null,null);e.default=component.exports}}]);
